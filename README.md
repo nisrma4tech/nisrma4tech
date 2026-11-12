@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Nisha Sharma 👋
 
-<!--
-**nisrma4tech/nisrma4tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-Taught Software Developer | Freelance Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an independent software developer who believes in learning by building.
+
+I'm developing my technical skills through self-learning, hands-on practice, and AI-assisted learning with ChatGPT. My goal is to build practical applications and provide useful software solutions as a freelance developer.
+
+💻 Technologies & Areas of Interest
+
+- Programming: Java
+- CMS: Adobe Experience Manager (AEM)
+- Backend: Spring Boot, REST APIs
+- Cloud: Microsoft Azure, AWS
+- Tools: Git, GitHub, Maven
+- Exploring: AI Engineering and Automation
+
+🚀 What I'm Working Towards
+
+- Developing Java-based applications
+- Building backend services and REST APIs
+- Creating AEM components and integrations
+- Exploring cloud-based solutions
+- Building AI-powered applications and automation
+
+🌱 My Learning Journey
+
+- Learning new technologies
+- Building hands-on projects
+- Improving problem-solving skills
+- Using AI tools to support development and learning
+
+🤝 Open to Opportunities
+
+I'm interested in freelance development projects, collaborations, and opportunities to build practical software solutions.
+
+Let's connect and build something meaningful!
